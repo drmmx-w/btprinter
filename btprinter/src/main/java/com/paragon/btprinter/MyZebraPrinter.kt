@@ -23,7 +23,7 @@ enum class ErrorReason {
 }
 
 class MyZebraPrinter {
-    private var macDebug: String = "TODO TEST MAC" //
+    private var macDebug: String = "TODO TEST MAC"
 
     fun getVariableFieldsFromZpl(
         zpl: String,
