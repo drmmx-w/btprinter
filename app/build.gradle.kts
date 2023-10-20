@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.paragon.testbtprinter"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "com.paragon.testbtprinter"

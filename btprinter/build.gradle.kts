@@ -1,12 +1,13 @@
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")
+    id("kotlin-parcelize")
     id("maven-publish")
 }
 
 android {
     namespace = "com.paragon.btprinter"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         minSdk = 27
