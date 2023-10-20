@@ -43,7 +43,7 @@ afterEvaluate {
         publishing.publications.create<MavenPublication>(variant.name) {
             groupId = "com.paragon"
             artifactId = "btprinter"
-            version = "1.0.1"
+            version = "1.0.3"
 
             from(components.findByName(variant.name))
         }
