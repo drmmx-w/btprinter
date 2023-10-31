@@ -1,4 +1,4 @@
-package com.paragon.btprinter.data
+package com.paragon.btprinter.util
 
 sealed class PrintResult {
     data object Success : PrintResult()

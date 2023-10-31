@@ -1,4 +1,4 @@
-package com.paragon.btprinter.data
+package com.paragon.btprinter.util
 
 interface Printable {
 

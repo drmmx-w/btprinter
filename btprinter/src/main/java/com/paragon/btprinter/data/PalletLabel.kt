@@ -1,5 +1,5 @@
 import android.os.*
-import com.paragon.btprinter.data.*
+import com.paragon.btprinter.util.*
 import kotlinx.parcelize.*
 
 @Parcelize
